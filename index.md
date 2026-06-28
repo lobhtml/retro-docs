@@ -11,3 +11,5 @@ description: Browse recent posts and updates
 ## Recent Posts
 
 * [Is this Pokemon Diamond DS cart fake or real?](https://lobhtml.github.io/retro-docs/posts/pokemon-ds-cart) - Published 28 June 2026
+
+![The San Juan Mountains are beautiful](ds-cart1.jpg)
