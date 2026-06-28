@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Recent posts
+title: Pokemon post
 description: This is just another page
 ---
 
