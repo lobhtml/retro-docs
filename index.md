@@ -4,4 +4,4 @@ title: Recent posts
 description: This is just another page
 ---
 
-# Welcome to another page
+[Is this Pokemon Diamond DS cart fake or real?](https://lobhtml.github.io/retro-docs/_posts/pokemon-ds-cart.md)
