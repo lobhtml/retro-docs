@@ -10,7 +10,7 @@ I made a decision at some point to only emulate games that I have legitimate acc
 
 ## Verdict: Real
 
-I read through [this guide](gameverifying.com/wiki/cart-based-systems/nds) and examined my DS cart. Based on images of verified Pokemon Diamond (FRA) carts online and by cross-referencing the codes, I concluded that the cart I now have in my possession is a legitimate copy. Here's why:
+I read through [this guide](https://gameverifying.com/wiki/cart-based-systems/nds) and examined my DS cart. Based on images of verified Pokemon Diamond (FRA) carts online and by cross-referencing the codes, I concluded that the cart I now have in my possession is a legitimate copy. Here's why:
 
 3. Label centred
 
