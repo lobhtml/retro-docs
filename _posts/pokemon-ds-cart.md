@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Is this Pokemon Diamond DS cart fake or real?
-description: Subscribe to my YouTube channel to view my retro gaming videos
+description: Published 28 June 2026
 ---
 
 # Welcome to another page
