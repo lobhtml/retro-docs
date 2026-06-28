@@ -8,6 +8,7 @@ description: Published 28 June 2026
 <img src="/images/ds-cart2.jpg" alt="DS Cart image 2" width="200px">
 <img src="/images/ds-cart3.jpg" alt="DS Cart image 3" width="200px">
 
+[DS Cart image 1](/images/ds-cart1.jpg]
 
 ## Verdict: Real
 
