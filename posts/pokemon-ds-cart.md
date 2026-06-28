@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Pokemon post
-description: This is just another page
+title: LukePlayzIE
+description: Published 28 June 2026
 ---
 
 Pokemon post here
