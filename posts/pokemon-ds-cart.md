@@ -4,9 +4,9 @@ title: Is this Pokemon Diamond DS cart fake or real?
 description: Published 28 June 2026
 ---
 
-### Front
+## Front
 ![DS Cart image 1](../images/ds-cart1.jpg)
-### Back
+## Back
 ![DS Cart image 2](../images/ds-cart2.jpg)
 
 ## Verdict: Real
