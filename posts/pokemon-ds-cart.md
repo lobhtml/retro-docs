@@ -4,6 +4,9 @@ title: Is this Pokemon Diamond DS cart fake or real?
 description: Published 28 June 2026
 ---
 
+## Background
+I made a decision at some point to only emulate games that I have legitimate access to (see Priacy poilicy). I own physical copies of Pokemon Yellow, Gold and Ruby and have played through those games on the channel. I never played Gen 4 DS games, therefore I needed a copy of Pokemon DPP. Thankfully, these carts are cheaper than HGSS, and I picked up a French copy just to have a legitimate copy in my collection (I'll be emulating the English-language version, of course).
+
 ## Front
 ![DS Cart image 1](../images/ds-cart1.jpg)
 ## Back
