@@ -6,7 +6,7 @@ description: Browse recent posts and updates
 
 ## Pinned updates
 
-[Content policy 2v1.0](https://lobhtml.github.io/retro-docs/posts/updates/policy)
+[Content policy v1.0](https://lobhtml.github.io/retro-docs/posts/updates/policy)
 
 ## Recent posts
 
