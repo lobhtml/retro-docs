@@ -6,7 +6,7 @@ description: Browse recent posts and updates
 
 ## Pinned updates
 
-[YouTube channel Piracy policy v1.0](https://lobhtml.github.io/retro-docs/posts/updates/policy)
+[Content policy v1.0](https://lobhtml.github.io/retro-docs/posts/updates/policy)
 
 ## Recent posts
 
