@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Piracy policy v1.0
-description: Published 28 June 2026
+title: Content policy v1.0
+description: Published 30 June 2026
 ---
 
 The purpose of this policy is not to virtue signal or influence how others approach retro gaming. It is about providing a practical, ethical framework that informs the kind of content that I cover on my YouTube channel. I’m not an anti-piracy absolutist by any means, however, I do think that free and open access to anything at any time is not very experiential or meaningful. My thought process on that is baked into this policy.
