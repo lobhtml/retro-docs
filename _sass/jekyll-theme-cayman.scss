@@ -108,7 +108,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url('../../ps1.png');
+  background-image: url('../ps1.png');
   background-size: cover;
 
   @include large {
