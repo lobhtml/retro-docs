@@ -1,7 +1,7 @@
-### _includes
+# _includes
 - Custom favicon added
 - Google tag installed
   
-### _layouts
+# _layouts
 
-### _sass
+# _sass
