@@ -6,3 +6,4 @@
 - Header button links to homepage
 
 # _sass
+- Body font sans-serif
