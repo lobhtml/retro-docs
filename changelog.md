@@ -1,4 +1,5 @@
 # _includes
+- Custom favicon added
 
 # _layouts
 
