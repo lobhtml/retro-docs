@@ -4,6 +4,7 @@
   
 # _layouts
 - Header button links to homepage
+- Default footer removed
 
 # _sass
 - Body font changed to default sans-serif
