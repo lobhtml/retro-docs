@@ -1,2 +1,2 @@
 # retro-docs
-A GitHub Pages site using a modified Jekyll theme
+A GitHub Pages site using a modified [Jekyll theme](https://github.com/pages-themes/cayman)
