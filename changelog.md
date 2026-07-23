@@ -8,4 +8,4 @@
 
 # _sass
 - Body font changed to default sans-serif
-- 
+- Site footer border removed
