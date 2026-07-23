@@ -1,6 +1,6 @@
-# _includes
+### _includes
 - Custom favicon added
 
-# _layouts
+### _layouts
 
-# _sass
+### _sass
