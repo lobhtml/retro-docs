@@ -1,2 +1,2 @@
 # retro-docs
-A GitHub Pages site using a modified [Jekyll theme](https://github.com/pages-themes/cayman). Read [changelog.md](changelog.md) for a detailed list of changes to the theme
+A GitHub Pages site using a modified [Jekyll theme](https://github.com/pages-themes/cayman). See [changelog.md](changelog.md) for a detailed list of changes to the theme
