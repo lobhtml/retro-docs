@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Cheap domain names - 1.111B class .xyz domains
+title: I registered a 1.111B class domain name
 description: 28 June 2026
 image: 
 ---
 
-# 
+# Cheap domain names
+
+
