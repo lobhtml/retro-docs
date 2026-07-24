@@ -9,4 +9,3 @@
 # _sass
 - Body font changed to default sans-serif
 - Site footer border removed
-- h1 etc. colour changed to black
