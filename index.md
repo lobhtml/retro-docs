@@ -1,7 +1,7 @@
 ---
 layout: default
-title: LukePlayzIE
-description: Retro gaming video creator
+title: Luke O'Brien
+description: Retro gaming and niche computing topics
 ---
 
 # Recent posts
