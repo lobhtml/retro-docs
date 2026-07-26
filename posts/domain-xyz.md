@@ -11,7 +11,7 @@ I like learning about niche computing topics. Cheap domain names are a particula
 
 I wouldn't recommend registering a .xyz domain name for a serious business venture, but it is fine for personal projects or simply the novelty of trying to come up with an interesting and unique numeric combination. I registered 19939000.xyz, a reference to Doom (1993) and the most powerful weapon in the game BFG 9000.
 
-## Update 26/07/2026
+# Update 26 July 2026
 
 I received an email from my [preferred domain name registrar](https://porkbun.com) informing me that "the registry behind .xyz will be increasing the regular wholesale price for all .xyz domains, starting on August 25, 2026", affecting all registrars, "including potentially registrations, renewals, and transfers". According to the [official FAQ article](https://gen.xyz/account/knowledgebase/72/Whats-changing-on-August-26.html), regular .xyz domains will be increasing from $10 to $15 for registration, renewal and transfer. This may vary depending on the registrar. The email from Porkbun noted that “the new estimated renewal price will be $14.21 USD per year”. 
 
