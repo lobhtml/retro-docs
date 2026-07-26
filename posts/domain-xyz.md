@@ -1,6 +1,6 @@
 ---
 layout: default
-title: I registered a 1.111B class domain name
+title: Everything you need to know about 1.111B class .xyz domains
 description: 24 July 2026
 image: 
 ---
