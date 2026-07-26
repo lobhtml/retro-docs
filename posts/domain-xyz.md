@@ -11,13 +11,10 @@ I like learning about niche computing topics. Cheap domain names are a particula
 
 # Update 26/07/2026
 
-I received an email from my [preferred domain name registrar](https://porkbun.com/) informing me that "the registry behind .xyz will be increasing the regular wholesale price for all .xyz domains, starting on August 25, 2026", affecting all registrars, "including potentially registrations, renewals, and transfers". The new renewal price will be approx. $14.21 USD per year. I have not yet determined whether 1.111B class domains will be affected.
+I received an email from my [preferred domain name registrar](https://porkbun.com) informing me that "the registry behind .xyz will be increasing the regular wholesale price for all .xyz domains, starting on August 25, 2026", affecting all registrars, "including potentially registrations, renewals, and transfers".
+According to the [official FAQ article](https://gen.xyz/account/knowledgebase/72/Whats-changing-on-August-26.html), regular .xyz domains will be increasing from $10 to $15 for registration, renewal and transfer. This may vary depending on the registrar. The email from Porkbun noted that “the new estimated renewal price will be $14.21 USD per year”.
+It is not yet clear whether 1.111B class .xyz domains will be affected. I have reached out to Porkbun and the registry for clarification. I’ll report back here when I find out more.
 
-I have reached out to the registry and Porkborn for further clarification. I'll report back.
-
-You can see availability statistics for 1.111B class .xyz domains [here](https://gen.xyz/number)
-
-FAQ article [here](https://gen.xyz/account/knowledgebase/72/Whats-changing-on-August-26.html)
 
 
 
