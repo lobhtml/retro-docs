@@ -17,5 +17,7 @@ I have reached out to the registry and Porkborn for further clarification. I'll 
 
 You can see availability statistics for 1.111B class .xyz domains [here](https://gen.xyz/number)
 
+FAQ article [here](https://gen.xyz/account/knowledgebase/72/Whats-changing-on-August-26.html)
+
 
 
