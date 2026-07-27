@@ -1,14 +1,16 @@
 ---
 layout: default
-title: 1.111B class .xyz domains will not be affected by the price increase
+title: 1.111B class .xyz domains unaffected by price increase
 description: 24 July 2026
 ---
 
 # Cheap domain names
 
-I like learning about niche computing topics. Cheap domain names are a particular area of interest, so I was excited to learn about [1.111B class domains](https://gen.xyz/1111b), described as an “affordable class of .xyz domains made up of 1.111 billion possible [...] numeric combinations, between 000000.xyz through 999999999.xyz”. The renewal fee for 1.111B class domains is very low (around $1.24 per year). However, these cheap domain names are often associated with scam websites and as a result “many or all” .xyz domains have been [blacklisted by anti-malware services](https://en.wikipedia.org/wiki/.xyz#Malicious_domains). 
+I like learning about niche computing topics. Cheap domain names are a particular area of interest, so I was excited to learn about [1.111B class domains](https://gen.xyz/1111b), described as an “affordable class of .xyz domains made up of 1.111 billion possible [...] numeric combinations, between 000000.xyz through 999999999.xyz”. The registration and renewal fee for 1.111B class domains is around $1 per year.
 
-I wouldn't recommend registering a .xyz domain name for a serious business venture, but it is fine for personal projects or simply the novelty of trying to come up with an interesting and unique numeric combination. I registered 19939000.xyz, a reference to Doom (1993) and the most powerful weapon in the game BFG 9000.
+However, these cheap domains have been misused, potentially for “phishing, malware distribution, and spam” according to a recent [XYZ Q1 2026 report](https://gen.xyz/blog/2026-quarterly-q1). As a result, [multiple anti-malware vendors have blacklisted many or all .xyz domains](https://en.wikipedia.org/wiki/.xyz#Malicious_domains).
+
+Despite this notoriety, the registry seem proactive when it comes to curbing and reporting misuse, which is welcomed. There are also notable corporate use cases that perhaps lend some credibility. My preferred decentralised social media platform Bluesky was first registered as [BlueskyWeb.xyz](https://blueskyweb.xyz/) and the extension is still in use. Google’s parent holding company Alphabet Inc uses [abc.xyz](https://abc.xyz/) for its corporate website, another high-profile example.
 
 # Update 26 July 2026
 
