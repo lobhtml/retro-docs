@@ -31,8 +31,16 @@
       {{ content }}
 
       <footer class="site-footer">
-        <span>A GitHub Pages site using a modified Jekyll theme</span>
+        <span><p id="demo"></p> A GitHub Pages site using a modified Jekyll theme</span>
       </footer>
+
+      <p id="demo"></p>
+
+      <script>
+      const d = new Date();
+      let year = d.getFullYear();
+      document.getElementById("demo").innerHTML = year;
+      </script>
     </main>
   </body>
 </html>
