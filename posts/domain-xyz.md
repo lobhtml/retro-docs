@@ -2,7 +2,6 @@
 layout: default
 title: 1.111B class .xyz domains unaffected by price increase
 description: First published 24 July 2026
-image: img/xyz-website.png
 ---
 
 # Cheap domain names
