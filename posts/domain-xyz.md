@@ -1,6 +1,6 @@
 ---
 layout: default
-title: I registered a 1.111B class .xyz domain name
+title: 1.111B class .xyz domains will not be affected by the latest price increase
 description: 24 July 2026
 ---
 
