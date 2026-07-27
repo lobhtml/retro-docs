@@ -18,4 +18,4 @@ It's not yet clear whether 1.111B class .xyz domains will be affected. I have re
 
 # Update 27 July 2026
 
-Porkbun support responded to my email, informing me that "to our current knowledge **the 1.111B pricing tier remains unaffected** after the upcoming changes". .xyz staff also responded, reconfirming that "**1.111B domains will not be affected by the price increase**".
+Porkbun support responded to my email, informing me that "to our current knowledge **the 1.111B pricing tier remains unaffected** after the upcoming changes". A .xyz staff member also responded, reconfirming that "**1.111B domains will not be affected by the price increase**".
