@@ -5,7 +5,8 @@
 # _layouts
 - Header button links to homepage
 - Default footer removed
+- getfullyear JavaScript added to fetch current year
 
 # _sass
 - Body font changed to default sans-serif
-- Site footer border removed
+- Site footer border restored
