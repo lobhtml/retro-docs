@@ -10,7 +10,7 @@ I like learning about niche computing topics. Cheap domain names are a particula
 
 However, these cheap domains have been misused, potentially for “phishing, malware distribution, and spam” according to a recent [XYZ Q1 2026 report](https://gen.xyz/blog/2026-quarterly-q1). As a result, [multiple anti-malware vendors have blacklisted many or all .xyz domains](https://en.wikipedia.org/wiki/.xyz#Malicious_domains).
 
-Despite this notoriety, the registry seem proactive when it comes to curbing and reporting misuse, which is welcomed. There are also notable corporate use cases that perhaps lend some credibility. My preferred decentralised social media platform Bluesky was first registered as [BlueskyWeb.xyz](https://blueskyweb.xyz/) and the extension is still in use. Google’s parent holding company Alphabet Inc uses [abc.xyz](https://abc.xyz/) for its corporate website, another high-profile example.
+Despite this notoriety, the registry seem proactive when it comes to curbing and reporting misuse, which is good. There are also notable corporate use cases that perhaps lend some credibility. My preferred decentralised social media platform Bluesky was first registered as [BlueskyWeb.xyz](https://blueskyweb.xyz/) and the extension is still in use. Google’s parent holding company Alphabet Inc uses [abc.xyz](https://abc.xyz/) for its corporate website, another high-profile example.
 
 # Update 26 July 2026
 
