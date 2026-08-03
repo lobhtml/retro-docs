@@ -2,6 +2,7 @@
 layout: default
 title: Emulator zone - PCSX2 overview
 description: 2 August 2026
+image: img/gta3-1.png
 ---
 
 # Native PS2 look with modern features
