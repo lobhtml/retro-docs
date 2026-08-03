@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Emulator zone: PCSX2 overview
+title: Emulator zone - PCSX2
 description: 2 August 2026
 ---
 
