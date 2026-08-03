@@ -35,4 +35,4 @@ I encountered a problem where the audio lagged very noticeably as the game loade
 
 ---
 
-*Note - I own a PS2 console and a physical copies of the games featured in this article. I do not endorse piracy. If you would also like to emulate games you have legitimate access to you can find the PCSX2 emulator [here](https://pcsx2.net/)*
+*Note - I own a PS2 console and physical copies of the games featured in this article. I do not endorse piracy. If you would also like to emulate games you have legitimate access to you can find the PCSX2 emulator [here](https://pcsx2.net/)*
