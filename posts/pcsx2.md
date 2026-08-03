@@ -13,7 +13,7 @@ My goal with this setup was to recreate a native PS2 look. More specifically, I 
 
 # Why not use original hardware?
 
-![Grand Theft Auto III PCSX2 Screenshot](../img/gta3-2.png)
+![Grand Theft Auto III PCSX2 Screenshot](../img/sh2-1.png)
 
 I own a PS2 console and have the capability to capture footage, but my cheap AV2HDMI upscaler and USB capture card do a poor job of converting the signal. Even when sharpened in OBS, it doesn’t look good. There’s also the issue of switching between OBS and the console with my one monitor setup. I can see a preview in OBS but there is a risk of input delay. It is possible that I could upgrade my setup but for now this software is a good option.
 
