@@ -27,3 +27,5 @@ The advantage of using PCSX2 is that you can use a PS5 controller via USB. You c
 ![Grand Theft Auto III PCSX2 Screenshot](../img/gta3-4.png)
 
 I encountered a problem where the audio lagged very noticeably as the game loaded. I fixed the issue by setting the graphics API to Direct3D 11. By default, the graphics API is set to automatic. I can only assume that the emulator was opting for a graphics renderer that put too much strain on my PC and Direct3D 11 works on my machine. If you encounter any lag this might be worth checking.
+
+*Note - I own a PS2 console and a physical copy of the game featured in this article. I do not endorse piracy. If you would like to emulate games you have legitimate access to you can find the PCSX2 emulator [here](https://pcsx2.net/)*
