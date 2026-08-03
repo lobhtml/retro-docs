@@ -4,7 +4,7 @@ title: My PCSX2 Settings
 description: 2 August 2026
 ---
 
-# A native PS2 look with anti-blur
+# Native PS2 look with modern features
 
 ![Grand Theft Auto III PCSX2 Screenshot](../img/gta3-1.png)
 
