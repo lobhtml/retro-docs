@@ -6,6 +6,8 @@ description: 2 August 2026
 
 # A native PS2 look with anti-blur
 
+![Grand Theft Auto III PCSX2 Screenshot](../img/gta3-1.jpg)
+
 My goal with this setup was to recreate a native PS2 look. More specifically, I didn’t want the image to look too sharp or upscaled. I wanted to feel as though I was playing the game on original hardware but also be able to use a PS5 controller and not worry about cable management. PCSX2 does just about that by default, which is great.
 
 # Why not use original hardware?
