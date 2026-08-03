@@ -17,7 +17,7 @@ My goal with this setup was to recreate a native PS2 look. More specifically, I 
 ![Silent Hill 2 PS2 Screenshot](../img/sh2-1.png)
 *PS2 screenshot*
 
-I own a PS2 console and have the capability to capture footage, but my cheap [AV2HDMI upscaler](https://www.amazon.co.uk/dp/B08RMVMB2G) and [USB capture card](https://www.amazon.co.uk/dp/B089D8DB44) do a poor job of converting the signal. Even when sharpened in OBS, it doesn’t look good. There’s also the issue of switching between inputs on my one monitor setup. I can see a preview in OBS but there is a risk of input delay. It is possible that I could upgrade my setup but for now this is a useful option.
+I own a PS2 console and have the capability to capture footage, but my cheap [AV2HDMI upscaler](https://www.amazon.co.uk/dp/B08RMVMB2G) and [USB capture card](https://www.amazon.co.uk/dp/B089D8DB44) do a poor job of converting the signal. Even when sharpened in OBS, it doesn’t look good. There’s also the issue of switching between inputs on my one monitor setup. I can see a preview in OBS but there is a risk of input delay. It is possible that I could upgrade my setup but for now this is a less expensive solution.
 
 # PCSX2 advantages
 
