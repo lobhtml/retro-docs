@@ -24,7 +24,7 @@ I own a PS2 console and have the capability to capture footage, but my cheap [AV
 ![Grand Theft Auto III PCSX2 Screenshot](../img/gta3-3.png)
 *PCSX2 screenshot*
 
-The advantage of using PCSX2 is that you can use a PS5 controller via USB. Crucially, you can monitor OBS as you play without needing to switch to another HDMI input. There is also the option of upscaling the image to HD or even 4K in 16:9 ratio, if recreating a native PS2 look is not a priority.
+The advantage of using PCSX2 is that you can use a PS5 controller via USB. Crucially, you can monitor OBS as you play without needing to switch to another HDMI input. There is also the option of upscaling the image to FHD or even 4K in 16:9 widescreen, among other graphics settings.
 
 # Lag issue: Solved
 
