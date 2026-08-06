@@ -18,4 +18,4 @@ Coincidentally, shortly after posting this article, I received an email from my 
 
 # Update 27 July 2026
 
-Porkbun support informed me that "to our current knowledge the 1.111B pricing tier remains unaffected after the upcoming changes". A XYZ staff member also confirmed that "1.111B domains will not be affected by the price increase".
+Porkbun support informed me that "to our current knowledge the 1.111B pricing tier remains unaffected after the upcoming changes". A XYZ staff member confirmed that "1.111B domains will not be affected by the price increase".
