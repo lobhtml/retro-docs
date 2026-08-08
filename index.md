@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Luke O'Brien
-description: Computing & Retro Gaming Blog
+description: Retro gaming and computing blog
 ---
 
 # Recent posts
