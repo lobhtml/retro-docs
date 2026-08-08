@@ -12,4 +12,4 @@ description: Retro gaming and niche computing topics
 
 # Links
 
-- [Retro gaming YouTube channel](https://www.youtube.com/@LukePlayzIE)
+- [YouTube](https://www.youtube.com/@LukePlayzIE)
