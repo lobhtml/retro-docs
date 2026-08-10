@@ -9,7 +9,3 @@ description: Retro gaming and computing blog
 - [Emulator zone - PCSX2 overview](posts/pcsx2.md)
 - [1.111B class .xyz domains unaffected by price increase](posts/domain-xyz.md)
 - [Is this Pokemon Diamond DS cart fake or real?](posts/pokemon-ds-cart.md)
-
-# Links
-
-- [YouTube](https://www.youtube.com/@LukePlayzIE)
