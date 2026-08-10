@@ -1,6 +1,7 @@
 # _includes
 - Custom favicon added
 - Google tag installed
+- Google Search Console verification added
   
 # _layouts
 - Header button links to homepage
