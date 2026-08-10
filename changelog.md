@@ -11,3 +11,6 @@
 # _sass
 - Body font changed to default sans-serif
 - Site footer border restored
+- Link colour changed to SteelBlue
+- h1 colour etc changed to SlateGrey
+- Header gradient Black, Blue
