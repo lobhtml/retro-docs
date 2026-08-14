@@ -32,7 +32,7 @@ I also believe that there is something radical about not ditching your old tech 
 
 # The cons
 
-![PS1 Setup](../img/spyro.jpg)
+![PS1 Setup](../img/spyro-1.jpg)
 
 The downside to capturing footage from a retro console is the video quality. I have a cheap upscaler and capture card from Amazon, so my setup is not ideal. The image can appear very pixelated. However, it serves its purpose. I might consider buying a [fancy upscaler](https://www.retrotink.com/shop/retrotink-2x-pro) for more advanced video processing at some point.
 
