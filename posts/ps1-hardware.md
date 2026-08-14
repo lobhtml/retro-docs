@@ -30,7 +30,7 @@ I also believe that there is something radical about not ditching your old tech 
 
 # The cons
 
-The downside to capturing footage from a retro console is the video quality. I have a cheap upscaler and capture card from Amazon, so my setup is not ideal. The image can appear very pixelated. However, it serves its purpose. I might consider buying a fancy upscaler for more advanced video processing at some point.
+The downside to capturing footage from a retro console is the video quality. I have a cheap upscaler and capture card from Amazon, so my setup is not ideal. The image can appear very pixelated. However, it serves its purpose. I might consider buying a [fancy upscaler](https://www.youtube.com/watch?v=jSXwVGx3AoM) for more advanced video processing at some point.
 
 The other inconvenience is cable management. For this setup, I required two converters, 2x USB ports to power the converters, 3x HDMI cables and a USB port on my PC for the capture card.
 
