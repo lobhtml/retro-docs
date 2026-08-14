@@ -10,6 +10,8 @@ I recently posted [an article on the PCSX2 emulator](pcsx2.md) and explained why
 
 # My setup (PS1 hardware)
 
+!(PS1 setup)[../img/ps1-1]
+
 ### AV Composite cable to HDMI converter
 
 The red, yellow and white pins go into the AV2HDMI converter and you connect a HDMI cable on the other end. This converts the analogue signal into digital.
