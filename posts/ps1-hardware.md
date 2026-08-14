@@ -39,7 +39,7 @@ The downside to capturing footage from a retro console is the video quality. I h
 
 The other inconvenience is cable management. For this setup, I required two converters, 2x USB ports to power the converters, 3x HDMI cables and a USB port on my PC for the capture card.
 
-Summary
+# Summary
 
 There is no better option. It all depends on whether you are looking for a more tactile, authentic experience (original hardware) or a setup that prioritises convenience and video quality (emulation). You can get both without emulation but it can be expensive.
 
