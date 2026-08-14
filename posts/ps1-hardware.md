@@ -10,8 +10,6 @@ I recently posted [an article on the PCSX2 emulator](pcsx2.md) and explained why
 
 # My setup (PS1 hardware)
 
-![PS1 Setup](../img/setup.jpg)
-
 ### AV Composite cable to HDMI converter
 
 The red, yellow and white pins go into the AV2HDMI converter and you connect a HDMI cable on the other end. This converts the analogue signal into digital.
@@ -26,11 +24,15 @@ One of the HDMI outputs from the splitter goes into the capture card, which is c
 
 # The pros
 
+![PS1 Setup](../img/ps1.png)
+
 I think the main reason to record on original hardware is for authenticity. An emulator can mimic the image at native resolution but it cannot recreate the actual tactile feedback of interacting with peripherals (memory cards, for example) and the console itself. Inserting the disc, booting up the console and hearing the sound of the system running the game is an important aspect of the retro gaming experience. 
 
 I also believe that there is something radical about not ditching your old tech in a world that encourages you to keep buying new things.
 
 # The cons
+
+![PS1 Setup](../img/spyro.jpg)
 
 The downside to capturing footage from a retro console is the video quality. I have a cheap upscaler and capture card from Amazon, so my setup is not ideal. The image can appear very pixelated. However, it serves its purpose. I might consider buying a [fancy upscaler](https://www.retrotink.com/shop/retrotink-2x-pro) for more advanced video processing at some point.
 
