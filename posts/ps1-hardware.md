@@ -6,7 +6,7 @@ description: 24 July 2026
 
 # Overview
 
-I recently [posted an article on the PCSX2 emulator](pcsx2.md) and explained why, in some circumstances, I found it more appealing than recording on original hardware. For balance, I thought it might be cool to run through my retro console setup for capturing footage on PC, listing some of the pros and cons.
+I recently posted [an article on the PCSX2 emulator](pcsx2.md) and explained why, in some circumstances, I found it more appealing than recording on original hardware. For balance, I thought it might be cool to run through my retro console setup for capturing footage on PC, listing some of the pros and cons.
 
 # My setup (PS1 hardware)
 
