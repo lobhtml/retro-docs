@@ -10,7 +10,7 @@ I recently posted [an article on the PCSX2 emulator](pcsx2.md) and explained why
 
 # My setup (PS1 hardware)
 
-!(PS1 setup)[../img/ps1-1]
+!(PS1 setup)[../img/ps1.png]
 
 ### AV Composite cable to HDMI converter
 
