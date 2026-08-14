@@ -27,7 +27,7 @@ One of the HDMI outputs from the splitter goes into the capture card, which is c
 
 ![PS1 Setup](../img/ps1.png)
 
-I think the main reason to record on original hardware is for authenticity. An emulator can mimic the image at native resolution but it cannot recreate the actual tactile feedback of interacting with peripherals (memory cards, for example) and the console itself. Inserting the disc, booting up the console and hearing the sound of the system running the game is an important aspect of the retro gaming experience. 
+I think the main reason to play games or record on original hardware is for the experience. An emulator can mimic the image at native resolution but it cannot recreate the actual tactile feedback of interacting with peripherals (memory cards, for example) and the console itself. Inserting the disc, booting up the console and hearing the sound of the system running the game is an important aspect of the retro gaming experience. 
 
 I also believe that there is something radical about not ditching your old tech in a world that encourages you to keep buying new things.
 
