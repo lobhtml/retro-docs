@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My retro console setup - PS1 hardware
+title: Retro console setup - PS1 hardware
 description: 24 July 2026
 image: img/ps1.png
 ---
