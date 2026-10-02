@@ -1,3 +1,9 @@
+---
+layout: default
+title: Algorithm hooks, AI training and Dead internet theory
+description: 02 October 2026
+---
+
 # Algorithm hooks, AI training and Dead internet theory
 
 ## Competition changes things
