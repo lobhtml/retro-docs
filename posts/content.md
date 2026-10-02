@@ -4,8 +4,6 @@ title: Algorithm hooks, AI training and Dead internet theory
 description: 02 October 2026
 ---
 
-# Algorithm hooks, AI training and Dead internet theory
-
 ## Competition changes things
 
 The over-saturation of content means that creators have to try really hard to (a) attain and (b) maintain visibility. This, I would argue, has led to a standardisation of content. Suddenly, every video you see has an algorithm hook or attention-grabbing editing style to boost engagement. There are outliers, but I can often tell when the creator is more focused on the numbers rather than their subject. There’s nothing inherently wrong with that, but it changes things.
@@ -20,8 +18,4 @@ There’s also the principled concern of your content being used to train AI. Wh
 
 ## Dead internet theory
 
-Even if you accept these conditions and become successful, do you ever really know who your audience are? Dead internet theory broadly discusses the idea that most internet activity is automated. With the onboarding of agentic AI, or AI models that act on your behalf, this is going to become an even bigger problem. It is already difficult to discern actual human engagement from bot activity. Eventually, we will have to worry about AI agents arguing with each other in the comment section, at which point the internet might well be dead. It shouldn’t be about viewership or subscriber count, but if nobody sees your content, why tolerate all of the downsides of signing up with big tech?
-
-
-
-
+Even if you accept these conditions and become successful, do you ever really know who your audience are? Dead internet theory broadly discusses the idea that most internet activity is automated. With the onboarding of agentic AI, or AI models that act on your behalf, this is going to become an even bigger problem. It is already difficult to discern actual human engagement from bot activity. Eventually, we will have to worry about AI agents arguing with each other in the comment section, at which point the internet might well be dead. It shouldn’t be about viewership or subscriber count, but if nobody sees your content, why tolerate all of the downsides of signing up?
