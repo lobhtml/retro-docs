@@ -109,7 +109,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, Black, Blue);
+  background-image: linear-gradient(90deg, #1e153c, #403859);
 
   @include large {
     padding: 5rem 6rem;
