@@ -15,4 +15,3 @@
 - Link colour changed to SteelBlue
 - h1 colour etc changed to SlateGrey
 - Header gradient Black, Blue
-- Header gradient DarkSlateBlue, SlateBlue (New)
