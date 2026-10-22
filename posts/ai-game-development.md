@@ -13,7 +13,7 @@ I don’t think I would play *Doom*, for example, if I learned that it was vibe 
 
 # A point of no return, “pre-AI gaming”
 
-We have already reached a point of no return, as AI becomes more embedded in every step of our creative output, particularly code-based output. I’m not sure the relationship between the maker and the consumer can be mended provided these tools are out there. It is impossible to know the degree to which generative AI has been utilised when playing a new release, whether triple-A or indie, since the advent of AI. “No AI” declarations and AI disclosures are made, but I’m uncomfortable participating in a trust system when it comes to art.
+We have already reached a point of no return, as AI becomes embedded in every step of our creative output, particularly code-based output. I’m not sure the relationship between the maker and the consumer can be mended provided these tools are out there. It is impossible to know the degree to which generative AI has been utilised when playing a new release, whether triple-A or indie, since the advent of AI. “No AI” declarations and AI disclosures are made, but I’m uncomfortable participating in a trust system when it comes to art.
 
 “AI slop” is detectable and rightly disregarded. However, the hybrid (and potentially covert) integration of AI tools, which I suspect is becoming the norm, will be impossible to detect, unless there are glaring errors in the final product. The only way you can be certain of human authorship is by playing older games, those developed before the AI boom. I also suspect that the term “pre-AI gaming” might become popular as an interchangeable term for “retro gaming”.
 
