@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Why I play games and why it’s not about the game - AI and game development
+title: Why I play games and why it’s not about the game
 description: 22 October 2026
 ---
 
@@ -8,7 +8,7 @@ description: 22 October 2026
 
 I play games because I want to mindfully engage with something that a group of people developed when given particular financial or technical constraints. That’s what makes it special. The gameplay, the graphics, the story, all of those things are important, but knowing that the game is a product of human authorship at a particular moment in time is paramount to my enjoyment.
 
-I don’t think I would play Doom, for example, if I learned that it was vibe coded or developed with the assistance of generative AI. The lines are blurry, admittedly, as procedural AI (or code that a machine implements) has a role to play. The crucial distinction, for me, is that procedural AI has been written and implemented by humans, whereas generative AI circumvents or at least augments human input. In my view, it can no longer be considered a cultural exchange between people if generative AI is involved.
+I don’t think I would play Doom, for example, if I learned that it was vibe coded or developed with the assistance of generative AI. The lines are blurry, admittedly, as procedural AI (or code that a machine implements) has a role to play. The crucial distinction, for me, is that procedural AI has been written by humans, whereas generative AI circumvents or at least augments human input. In my view, it can no longer be considered a cultural exchange between people if generative AI is involved.
 
 # A point of no return, a trust system
 
@@ -25,6 +25,6 @@ It could also be said that AI gets more people involved in game development. It 
 
 # Video game integrity
 
-I believe in creative integrity. There’s certainly room for fan games, mods, remakes and remasters, official or otherwise, and that has been a part of video game history. However, I think the developer’s vision, or playing the game as it was intended to be played, ought to mean something. It seems that, with the advent of AI, the integrity of the original game is being eroded as the source code becomes more accessible through decompilation, which allows for games and other software to be recompiled, remixed and pirated like never before. This could be beneficial for preservationists, but again the trade-off is that we lose sight of the author’s intent. 
+I believe in creative integrity. There’s certainly room for fan games, mods, remakes and remasters, official or otherwise, and that has been a part of video game history. However, I think the developer’s vision, or playing the game as it was intended to be played, ought to mean something. It seems that, with the advent of AI, the integrity of the original game is being eroded as the source code becomes more accessible through decompilation, which allows for games and other software to be recompiled, remixed and pirated like never before. This could be beneficial for preservationists, but again the trade-off is that we lose sight of the author’s intent.
 
-There’s also the issue of licensed assets being used by generative AI. This will inevitably lead to a vanilla-fication of games, or a lack of originality. This damages the integrity of the original game it borrows from, most likely without the knowledge or permission of the developer. Perhaps I’m being overly sentimental or nostalgic, but a scarcity of people who can make good games and hardware constraints are what gives the hobby its mystique. There are use cases for AI, and it is not a straightforward debate, but it has made me hesitant to play new games at all.
+There’s also the issue of licensed assets being used by generative AI. This will inevitably lead to a vanilla-fication of games, or a lack of originality. This damages the integrity of the original game it borrows from, most likely without the knowledge or permission of the developer. Perhaps I’m being overly sentimental or nostalgic, but a scarcity of people who can make good games and hardware constraints are what gives the hobby its mystique. There are use cases for AI, and it is not a straightforward debate, but it has made me hesitant to embrace new games in the age of AI.
