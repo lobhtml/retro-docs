@@ -28,8 +28,3 @@ It could also be said that AI gets more people involved in game development. It 
 I believe in creative integrity. There’s certainly room for fan games, mods, remakes and remasters, official or otherwise, and that has been a part of video game history. However, I think the developer’s vision, or playing the game as it was intended to be played, ought to mean something. It seems that, with the advent of AI, the integrity of the original game is being eroded as the source code becomes more accessible through decompilation, which allows for games and other software to be recompiled, remixed and pirated like never before. This could be beneficial for preservationists, but again the trade-off is that we lose sight of the author’s intent. 
 
 There’s also the issue of licensed assets being used by generative AI. This will inevitably lead to a vanilla-fication of games, or a lack of originality. This damages the integrity of the original game it borrows from, most likely without the knowledge or permission of the developer. Perhaps I’m being overly sentimental or nostalgic, but a scarcity of people who can make good games and hardware constraints are what gives the hobby its mystique. There are use cases for AI, and it is not a straightforward debate, but it has made me hesitant to play new games at all.
-
-
-
-
-
