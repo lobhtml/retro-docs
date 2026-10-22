@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Why I play games and why it’s not about the game: AI and game development
+title: Why I play games and why it’s not about the game - AI and game development
 description: 22 October 2026
 ---
 
