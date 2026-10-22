@@ -9,7 +9,7 @@ image: img/doom-1.png
 
 I play games because I want to mindfully engage with something that has been developed by a group of people under certain financial or technical constraints. That’s what makes it special. The gameplay, the graphics, the story, all of those things are important, but knowing that the game is a product of human authorship at a particular moment in time is what sustains my enthusiasm.
 
-I don’t think I would play Doom, for example, if I learned that it was vibe coded or developed with the assistance of generative AI. The lines are burry, admittedly, as procedural AI (or code that a machine implements) has a definitive role to play. The crucial distinction, for me, is that procedural AI has been written by humans, whereas generative AI circumvents or at least augments human input. In my view, it can no longer be considered a cultural exchange between people if generative AI is involved at a fundamental level.
+I don’t think I would play *Doom*, for example, if I learned that it was vibe coded or developed with the assistance of generative AI. The lines are burry, admittedly, as procedural AI (or code that a machine implements) has a definitive role to play. The crucial distinction, for me, is that procedural AI has been written by humans, whereas generative AI circumvents or at least augments human input. In my view, it can no longer be considered a cultural exchange between people if generative AI is involved at a fundamental level.
 
 # A point of no return, “pre-AI gaming”
 
